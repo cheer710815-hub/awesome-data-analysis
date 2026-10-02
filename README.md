@@ -1418,6 +1418,7 @@ A collection of resources for accessing datasets and data sources for analysis a
 - [Opendatasets](https://github.com/JovianHQ/opendatasets) - A Python library for downloading datasets from Kaggle, Google Drive, and other online sources.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - Curated list of high-quality open datasets.
+- - [AptToSell South Korea Housing Subscription Reference Data](https://apttosell.com/housing-subscription-data/) - Versioned South Korea housing-subscription reference dataset covering private-housing score rules and regional/area deposit requirements, with CSV/JSON access, methodology documentation, CC BY 4.0 licensing, and a Zenodo record.
 - [Open Data Sources](https://github.com/datasciencemasters/data) - Collection of various open data sources.
 - [Free Datasets for Projects](https://www.dataquest.io/blog/free-datasets-for-projects/) - Dataquest's compilation of free datasets.
 - [Data World](https://data.world/) - The enterprise data catalog that CIOs, governance professionals, data analysts, and engineers trust in the AI era.
